@@ -1,4 +1,4 @@
-# Bot scripts
+# Automatização de rotinas utilizando python
 
 Scripts utilizados para automatização de rotinas operacionais em web sites.
 
