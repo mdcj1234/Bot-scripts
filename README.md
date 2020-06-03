@@ -6,7 +6,7 @@ Scripts utilizados para automatização de rotinas operacionais em web sites.
 
 * Crie um diretório no seu computador e salve o código do script em um arquivo (nome arquivo).py e abra esse diretório no seu terminal.
 
-* Para rodar um script python a primeira coisa a se fazer é baixar o python no seu computador. Acesse esse [link](https://www.python.org/) e instale a versão mais recente do python 3. Eu utilizei a versão 3.8.3. (Talvez seja necessário reabrir o terminal após a instalação)
+* Para rodar um script python a primeira coisa a se fazer é baixar o [Python](https://www.python.org/)  no seu computador. Instale a versão mais recente do python 3. Eu utilizei a versão 3.8.3. (Talvez seja necessário reabrir o terminal após a instalação)
 
 * O projeto precisa que você instale a biblioteca do [Selenium](https://www.selenium.dev/) (caso você já não tenha). Para isso execute o seguinte comando no seu terminal:
 
