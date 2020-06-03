@@ -14,7 +14,7 @@ Scripts utilizados para automatização de rotinas operacionais em web sites.
 $ pip install selenium
 ```
 
-* Já estamos quase pronto. Agora a útima coisa que precisa é baixar um webdriver para que o Selenium possa utilizar para acessar o browser. Exitem webdrivers de praticamente todos os navegadores mais populares (Chrome, Firefox, Edge, Opera, etc...). No meu caso eu baixei o do chrome.
+* Já estamos quase pronto. Agora a útima coisa que precisa é baixar um webdriver para que o Selenium possa acessar o browser. Exitem webdrivers de praticamente todos os navegadores mais populares (Chrome, Firefox, Edge, Opera, etc...). No meu caso eu baixei o do chrome.
 
   * Segue o link para download do webdriver: https://chromedriver.chromium.org/downloads
   * **ATENÇÃO** o webdriver a ser baixado tem de ser compatível com a sua versão do chrome. Para saber qual é a sua versão você pode checar através das propresdades do seu chrome ou então acessando a url chrome://settings/help.
