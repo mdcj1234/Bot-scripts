@@ -21,7 +21,7 @@ $ pip install selenium
     * chrome://settings/help
   * Depois de baixar basta apenas descompactar o webdriver dentro do mesmo diretório que você criou.
 
-* Por fim você irá precisar de construir o seu arquivo de input para que o bot use as informações necessárias como Placa, Chassi e Renavam do veículo. Para isso crie um arquivo .csv chamado input.csv (Da pra alterar esse nome no código) e preencha as informações assim como o exemplo abaixo:
+* Por fim você irá precisar de construir o seu arquivo de input para que o bot use as informações necessárias como Placa, Chassi e Renavam do veículo. Para isso crie um arquivo .csv chamado **input.csv** (Da pra alterar esse nome no código) e preencha as informações conforme a sequencia abaixo:
 
 ```csv
 placa, chassi, renavam
