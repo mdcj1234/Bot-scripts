@@ -27,7 +27,7 @@ $ pip install selenium
 placa, chassi, renavam
 ```
 
-  * **ATENÇÃO** se você utilizar o excel para gerar o arquivo salve o arquivo de forma que csv fique serparado por vírgulas (,) e não por ponto e vírgula (;).
+**ATENÇÃO** _se você utilizar o excel para gerar o arquivo salve o arquivo de forma que csv fique serparado por vírgulas (,) e não por ponto e vírgula (;)._
   
 * Agora você já está pronto para executar o script. Basta executar no seu terminal (lembrando que você tem que estar na pasta que você colocou o script e o webdriver).
 
