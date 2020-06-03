@@ -1,6 +1,6 @@
 # Automatização de rotinas utilizando python
 
-Scripts utilizados para automatização de rotinas operacionais em web sites.
+O Selenium é uma biblioteca utilizada para automatização de rotinas em web sites. Podemos aproveitar esse poderozo recurso disponível gratuitamente para criar bots que executam tarefas operacionais repetitivas.
 
 ## Como utilizar
 
@@ -21,6 +21,14 @@ $ pip install selenium
     * chrome://settings/help
   * Depois de baixar basta apenas descompactar o webdriver dentro do mesmo diretório que você criou.
 
+* Por fim você irá precisar de construir o seu arquivo de input para que o bot use as informações necessárias como Placa, Chassi e Renavam do veículo. Para isso crie um arquivo .csv chamado input.csv (Da pra alterar esse nome no código) e preencha as informações assim como o exemplo abaixo:
+
+```csv
+placa, chassi, renavam
+```
+
+  * **ATENÇÃO** se você utilizar o excel para gerar o arquivo salve o arquivo de forma que csv fique serparado por vírgulas (,) e não por ponto e vírgula (;).
+  
 * Agora você já está pronto para executar o script. Basta executar no seu terminal (lembrando que você tem que estar na pasta que você colocou o script e o webdriver).
 
 ```
