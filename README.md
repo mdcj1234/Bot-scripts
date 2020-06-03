@@ -17,7 +17,7 @@ $ pip install selenium
 * Já estamos quase pronto. Agora a útima coisa que precisa é baixar um webdriver para que o Selenium possa acessar o browser. Exitem webdrivers de praticamente todos os navegadores mais populares (Chrome, Firefox, Edge, Opera, etc...). No meu caso eu baixei o do chrome.
 
   * Segue o link para download do webdriver: https://chromedriver.chromium.org/downloads
-  * **ATENÇÃO** o webdriver a ser baixado tem de ser compatível com a sua versão do chrome. Para saber qual é a sua versão você pode checar através das propresdades do seu chrome ou então acessando a url:
+  * **ATENÇÃO :** o webdriver a ser baixado tem de ser compatível com a sua versão do chrome. Para saber qual é a sua versão você pode checar através das propresdades do seu chrome ou então acessando a url:
     * chrome://settings/help
   * Depois de baixar basta apenas descompactar o webdriver dentro do mesmo diretório que você criou.
 
@@ -27,7 +27,7 @@ $ pip install selenium
 placa, chassi, renavam
 ```
 
-**ATENÇÃO** _se você utilizar o excel para gerar o arquivo salve o arquivo de forma que csv fique serparado por vírgulas (,) e não por ponto e vírgula (;)._
+**ATENÇÃO :** _se você utilizar o excel para gerar o arquivo salve o arquivo de forma que csv fique serparado por vírgulas (,) e não por ponto e vírgula (;)._
   
 * Agora você já está pronto para executar o script. Basta executar no seu terminal (lembrando que você tem que estar na pasta que você colocou o script e o webdriver).
 
